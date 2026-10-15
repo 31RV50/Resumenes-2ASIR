@@ -4,7 +4,7 @@ Buenos días, voy a hablaros sobre la Pobreza Extrema.
 Para empezar, cuáles son las causas?
 las principales causas son:
 - Desempleo y dificultades para trabajar, ya que si no ganamos dinero, es fácil caer en esta situación
-- Exclusión social, está está relacionada sobretodo con conseguir trabajo, y estudios.
+- Exclusión social, esta está relacionada sobretodo con conseguir trabajo, y estudios.
 - Enfermedades, sobretodo en sitios **no** hay sanidad pública
 - Conflictos, que empeoran mucho la situación general de todas las personas
 - Agitación política, bastante relacionada con la de conflictos
