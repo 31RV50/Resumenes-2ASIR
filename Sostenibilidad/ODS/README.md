@@ -5,19 +5,19 @@ Para empezar, cuáles son las causas?
 las principales causas son:
 - Desempleo y dificultades para trabajar, ya que si no ganamos dinero, es fácil caer en esta situación
 - Exclusión social, esta está relacionada sobretodo con conseguir trabajo, y estudios.
-- Enfermedades, sobretodo en sitios **no** hay sanidad pública
+- Enfermedades, sobretodo en sitios con sanidad de pago, o donde no cubren bajas laborales
 - Conflictos, que empeoran mucho la situación general de todas las personas
-- Agitación política, bastante relacionada con la de conflictos
+- Agitación política, bastante relacionada con la de conflictos y exclusión
 - Desastres ambientales, como por ejemplo inundaciones o terremotos
 - Desigualdad económica, porque para que el rico sea más rico el pobre tiene que ser más pobre, 
-  aquí tenemos a Melon Musk, que podría acabar de sobra con este problema si quisiera
+  aquí tenemos a Nazi Musk, que podría acabar de sobra con este problema si quisiera
 ### Definición
 Pero, en qué casos se considera que la pobreza es EXTREMA?
 bueno, pues en esta categoría entra toda persona que vive con menos de 1,93€ al día.
 
 Si vive con un poco más no se consideraría extrema y por lo tanto no entra dentro de esta categoría.
-
 ### Avances
+Gracias a ayudas y  hacer servicios públicos como la sanidad y la educación, se han hecho grandes avances durante los años,
 Según esta gráfica de Wikipedia, podemos ver que ha habido una gran mejora hasta 2015 con respecto a 1990, esta parte de aquí nos muestra cómo se predijo que iría
 **pero**...
 ### Retrocesos
